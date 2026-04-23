@@ -1,0 +1,10 @@
+Algoritmo sin_titulo
+	Escribir "Pon un numero al azar"
+	 Leer numero
+	 Si numero == "67"
+		 Entonces Escribir "Eres un niño rata"
+		 
+	 Sino Escribir "Eres normal bro"
+	FinSi
+FinAlgoritmo
+//Primera cosa para la q uso pseint hahaha 
