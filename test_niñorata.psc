@@ -4,8 +4,7 @@ Algoritmo test_niño rata
 	 Si numero == "67" Entonces
 		  Escribir "Eres un niño rata"
 		 
-	 Sino 
- Escribir "Eres normal bro"
+	 Sino Escribir "Eres normal bro"
 	FinSi
 FinAlgoritmo
 //Primera cosa para la q uso pseint hahaha 
