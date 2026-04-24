@@ -1,3 +1,8 @@
 # test-de-ni-o-rata-
 Pon un numero si pones ya sabes cual eres un niño rata
-No descargues esto, no lo se ejecutar si sabes como enseñame (no bromeo) ^o^
+Como ejecutar:
+Extrae la carpeta
+Entra a Pseint y abre la carpeta hasta q te salga un archivo llamado test_niñorata.psc
+Seleccionalo y ahora presiona F9
+
+Listoo ^o^
