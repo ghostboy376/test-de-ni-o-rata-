@@ -1,4 +1,4 @@
-Algoritmo test_niño rata
+Algoritmo test_niñorata
 	Escribir "Pon un numero al azar"
 	 Leer numero
 	 Si numero == "67" Entonces
